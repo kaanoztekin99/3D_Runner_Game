@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: de408fe9e5ce75345a3b23304f40bd2a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Good Morning
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 97d258c5509dd3a4da1cb032a5c7c9b4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

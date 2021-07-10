@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1a64d3e14e4cd24419b78b0e7fd8e373
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - iA Writer Duospace
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 44388cdf2a7be974b94e26eb63ad6152, type: 3}
+  - {fileID: 12800000, guid: f71b3be44680c5542b2abe7dc1a88908, type: 3}
+  - {fileID: 12800000, guid: 775c0de6410d7f54ea22fa5ceba82f13, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
