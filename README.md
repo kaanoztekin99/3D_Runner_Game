@@ -2,7 +2,7 @@
 ## Aim Of Project
 
 Aim Of Project : Creating 3D Runner Mobile Game.
-<br/>In this project, i did not use any humanoid model. All I want is to show you how to create simple hyper casual game.
+<br/>In this project, i did not use any humanoid model. All I want is to show you how to create simple hyper casual game mechanic.
 >Do not forget to collect 10 coins every level. If you do not collect, you can not pass to the other levels.
 <br/>![Runner3D_Game](https://github.com/kaanoztekin99/Runner3D_Game/blob/main/Assets/ScreenShotsOfGame/game.gif?raw=true)
 
